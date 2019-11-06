@@ -1,0 +1,29 @@
+
+Reports Q2 2019 results on Thursday, Aug. 15, after the close
+Revenue expectation: $2.55 billion
+EPS expectation: $1.14
+
+The recent volatility in NVIDIA (NASDAQ:NVDA) shares signals a lot about what investors can expect from the company's future earnings. In the middle of a cyclical downturn within the semiconductor sector, one of the world's largest chipmakers is finding it hard to show stock price stability as well as earnings growth.
+NVDA Weekly 2017-2019
+
+
+
+
+With economic uncertainty expanding, the roiling U.S.-China trade war threatening the future growth outlook of chip suppliers and additional signs of demand weakness, that situation is likely to persist. As such, when NVIDIA reports its second-quarter earnings later today, investors will be focusing on the company’s revenue and performance in gaming and data centers.
+NVIDIA has seen inventory levels build and buyers delay purchases since Q4 2018. The company’s revenue stream has been hit hard by the industry-wide slowdown, particularly the demand for chips used in gaming and data-centers—NVIDIA's two largest revenue-generating units.
+NVIDIA
+For the quarter that ended in June, analysts expect sales to have fallen 18%, to $2.55 billion, from the year ago period. Profit per share likely slumped to $1.14 from $1.76 a year ago.
+“Street numbers remain a high bar, but data center recovery is the most important dynamic that could cause investors to look through gaming risks,” Morgan Stanley analyst Joseph Moore wrote in a recent note.
+Regarding the data-center business he added:
+“[It] is the most important driver of the multiple; we take it on faith that this business will rebound as cloud spending starts to recover, but haven’t seen direct evidence of that yet; this quarter will be key.”
+Due to these uncertainties, NVIDIA didn’t offer an update on its annual forecast during its Q1 earnings call in May, when Chief Financial Officer Colette Kress said that the server market outlook had worsened since the beginning of the quarter.
+NVIDIA Shares Hardest Hit
+Shares of NVIDIA) have been one of the hardest hit in this downturn, plunging 49% from the stock's record high of $293 last year. Shares closed at $149.77 on Wednesday, after falling another 4% for the day.
+Recent earnings reports from other chipmakers show that recovery in data-center demand remains weak.  Intel (NASDAQ:INTC) told analysts last month that its data-center unit is suffering as demand drops from corporations and government buyers, particularly in China. Their Chief Executive Officer Bob Swan called that segment “brutal,” and said he doesn’t expect it to improve in the second half.
+Besides the cyclical slowdown, another major concern that will keep NVIDIA shares under pressure is the U.S.'s deteriorating trade relations with China. The Asian nation generates roughly 20% of the  Santa Clara, CA-based chipmaker's revenue.
+NVIDIA has invested heavily in China, where many of its chips are used for assembly into other products, especially in industries related to artificial intelligence. According to a recent report in the Wall Street Journal, NVIDIA) executives are concerned that worsening relations between the world’s two biggest economies will prompt Beijing to accelerate its efforts to reduce reliance on U.S. chip producers by nurturing homegrown competitors, eating into NVIDIA’s long-term business.
+Bottom Line
+This broad-based weakness in the semiconductor sector suggests that it will take much longer than expected for chip producers to get back to a growth trajectory, especially when expansion in China continues to slow and buyers wait for additional declines in graphic card prices. These multiple challenges, in our view, are likely to keep NVIDIA's stock under pressure, at least through 2019. In this uncertain environment, Investors would be better off avoiding semiconductor stocks. 
+
+
+

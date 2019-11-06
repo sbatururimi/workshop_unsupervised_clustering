@@ -1,0 +1,18 @@
+
+It’s becoming quite tough to remain positive about the world’s second-largest chipmaker, Intel (NASDAQ:INTC) these days. The company is losing some of its biggest customers, while smaller competitors are encroaching on its backyard.
+This alarming situation has taken a heavy toll on the stock. It's fallen about 14% over the past three months, closing down for the third straight session yesterday at $47.75, and has significantly underperformed the industry benchmark, the Philadelphia Semiconductor Index, which remained relatively unchanged over the past quarter.
+Intel price chart
+In the same period, Intel competitor, Advanced Micro Devices Inc (NASDAQ:AMD) surged more than 20%, adding to its 80% gains year-to-date, bucking the industry-wide weakness.
+And on top of dealing with the cyclical downturn that’s hurting the semiconductor industry this year, Intel has some serious issues of its own to contend with. The firm is facing a tough competitive environment in an industry that thrives on producing the smallest, most efficient and powerful chips in the highest volumes.
+Intel’s Manufacturing Woes
+The latest information from the company suggests that it is falling behind in this race, opening the doors for rivals to threaten its near-monopoly in the personal-computer and server markets. The biggest worry for Intel investors is that the manufacturing problems are fairly widespread and are causing a slowdown even at the company’s most established units.
+Last year, investors were disappointed when Intel confirmed that it wouldn’t mass-produce semiconductors made with 10-nanometer technology until later this year. Vivek Araya, an analyst at Merrill Lynch, said at the time that delays offer rivals including Taiwan Semiconductor Manufacturing (NYSE:TSM) and AMD the possibility to “leapfrog” ahead of Intel by rolling out their own lower-cost, higher-performing chips.
+Adding to Intel's woes in recent months have been the shortages of parts at the company’s PC unit. Those shortages were forecast to continue through the first half of the year, hurting both sales growth and gross margins. In his first earnings call as CEO in April, Bob Swan cut the full-year forecast, mainly citing the effects of weak memory pricing and a lull in demand for server processors.
+Later that week, he told a meeting of analysts that Intel’s growth would be in the “low single digit” range over the next three years with gross margins also coming under pressure as Intel tries to resolve its manufacturing problems.
+However, after the company's share price slid some 20% from the 52-week peak this year, Intel shares appear cheap to several analysts. With a forward price-to-earnings multiple of around 10.68, the lowest ratio since 2015, and a dividend yield of about 2.60%, Intel's valuation looks attractive to some. But there's a big risk to this valuation: another downward adjustment in revenue forecast may be just around the corner when the company releases its Q2 earnings release on July 25.
+According to a recent note by research house Raymond James, the lingering U.S.-China trade dispute that resulted in a 25% tariff on Chinese goods and the U.S. blacklisting of Huawei Technologies Co. is likely to spark a round of earnings warnings across the semiconductor industry.
+Bottom Line
+Despite the sharp correction, we don’t believe the time is right to bet on Intel stock as yet. There's a growing potential for further worsening in investor sentiment, especially if chip companies make deeper cuts to their earnings forecasts for the second-half. That, in our view, could provide a more compelling risk-reward equation to build a long-term position in Intel. Until then, investors should wait on the sidelines. 
+
+
+

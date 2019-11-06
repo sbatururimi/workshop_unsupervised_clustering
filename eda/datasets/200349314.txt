@@ -1,0 +1,19 @@
+
+International Business Machines (NYSE:IBM) just showed investors the one thing they didn't want to see from a technology company in the middle of a turnaround: shrinking sales.
+Weekly IBM Chart
+Before IBM reported its third quarter earnings on Tuesday, expectations were that the Big Blue had arrested a six-year decline in its sales and that its new growth engine—cloud computing, artificial intelligence, and network security—was strong enough to keep that momentum going.
+But the third quarter numbers told a different story. IBM is still struggling to break away from its past when its legacy mainframes (the gigantic computers that help large global companies to process complex IT data) propelled growth.
+IBM reported that Q3 revenue fell 2.1% to $18.8 billion, disappointing analysts who were expecting $19.1 billion. Cloud revenue, which has become a key metric to watch, grew 10% in the period to $4.5 billion, half the 20% expansion in the second quarter. The "Cognitive Solutions" segment of the business, which includes artificial intelligence and the Watson supercomputer also saw revenue decline significantly, about 5% year over year.
+Investors were displeased with the company's performance, sending IBM shares down the most in four years and dashing hopes of a quick recovery in its shares which are currently trading at $130.55. In our view, belief in the IBM turnaround is a losing bet. The reason is simple. IBM has tough competitors in the new economy who are grabbing the major share of new growth areas that are so crucial to the company’s success.
+IBM, which dominated the early decades of computing with inventions like the mainframe and the floppy disk, is no longer an innovative company and barely poses a major challenge to today’s tech giants, such as Amazon (NASDAQ:AMZN) and Alphabet (NASDAQ:GOOGL).
+Even after years of massive investments in acquisitions, infrastructure, and re-structuring, Chief Executive Officer Ginni Rometty has failed to produce steady growth in the business unit that includes cloud and artificial intelligence.
+In the cloud computing market, for example, Amazon Web Services (AWS) remains the global market leader at 33%, followed by Microsoft Azure (NASDAQ:MSFT) at 13% and Google Cloud Platform with 6% share, according to Synergy Research Group.
+Warren Buffett, once one of IBM's biggest investors, has dumped almost all of his holdings in the company through his investment firm, Berkshire Hathaway (NYSE:NYSE:BRKa).
+"I don't value IBM the same way that I did six years ago when I started buying," he told CNBC last year. "I think if you look back at what they were projecting and how they thought the business would develop, I would say what they've run into is some pretty tough competitors."
+If IBM isn’t going to be a winner in the new economy, is there any reason to still buy the stock? One possible attraction is its hefty dividend yield that’s touching 5% after the stock’s massive beating during the past five years.
+But the stability of that payout is also questionable as it largely depends on the company’s turnaround success. Its mainframe business, a cash cow that’s slowly drying up, can’t support that income stream. At a time when companies are fast migrating towards the cloud, the utility of its mainframe servers is rapidly fading.
+The Bottom Line
+IBM’s performance in the past few quarters shows that it can’t generate consistent growth across its portfolio. We think there are much better income and growth opportunities available in the market. We see no value in sticking with IBM and waiting for a turnaround that may never come. IBM is a losing bet that smart investors should avoid. 
+
+
+

@@ -1,0 +1,19 @@
+
+There's absolutely no sign the love affair investors have with chipmaker Nvidia (NASDAQ:NVDA) will end anytime soon.
+Despite trade tensions between the US and China which hit some technology stocks hard in recent weeks (Nvidia depends on China for roughly 18% of its revenue), the company’s stock remains strong. It’s up more than 50% over the past year, outperforming the benchmark Semiconductor Index by a big margin.
+NVDA Weekly
+The Santa Clara, CA-based company reports quarterly numbers later today, Thursday, after the US market close. The consensus view for fiscal second-quarter earnings is for $1.66 a share on $3.1 billion in revenue. That would mean revenue growth of an impressive 39% compared to the same period a year ago.
+Judging by the history and robust demand for NVDA's products, we see no reason it can’t post another blowout quarter. Nvidia has beaten expectations on profit and sales for 11-straight quarters.
+Gaming Still A Force; New Growth Areas Emerging
+The demand for the company's video gaming and data center chips—its two main markets—remains strong. In the first quarter, data center revenue surged 71%, while sales from gaming, which represents more than half the company’s total revenue, rose 68%.
+Nvidia is benefiting from the robust market for personal computers, where graphic cards remain tightly supplied, allowing chipmakers to charge higher prices. As well, Nvidia’s skill at finding new growth areas for its graphic chips has been the main reason why the company has been so successful. Data center operators, for example, are increasingly using Nvidia products to perform the parallel work of artificial intelligence computing.
+The gaming business, which currently generates 60% of Nvidia's revenue, has been supplemented by the diversion of high-end graphics chip cards into cryptocurrency mining. The world’s most powerful supercomputer, developed by IBM (NYSE:IBM), is equipped with six of Nvidia’s Tesla V100 graphic processors.
+Crypto Mining Could Be Weak Spot
+One risk to Nvidia’s Q2 earnings is the shrinking demand from the highly volatile cryptocurrency mining business. In the last quarter, Nvidia generated $289 million in sales to cryptocurrency miners. That revenue may fall by 2/3 in the second quarter, according to the company’s latest guidance.
+Despite the potential setback from its crypto business, we think Nvidia is in a great position to offset any revenue losses by the improving sales from its innovative gaming and data center products. Nvidia’s unchallenged dominance in the sector will keep its profit margins high.
+In the fiscal first quarter of 2018, the gaming segment contributed to a 510-basis-point expansion in the gross margins over the same period a year ago, up 64.7% (non-GAAP).
+Bottom Line
+Despite the near-term uncertainties around the crypto business and ongoing trade war hazards, we don’t see a major threat to Nvidia’s longer-term prospects. The company is pursuing growth in multiple markets, such as autonomous vehicles, artificial intelligence, machine learning and data center processing, where its prospects remain extremely bright. 
+
+
+

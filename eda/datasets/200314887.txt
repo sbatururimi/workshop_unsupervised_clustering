@@ -1,0 +1,23 @@
+
+
+Reports Thursday, May 10, after the close
+Revenue Expectation: $2.89B, EPS: $1.46
+
+With market expectations for chipmaker Nvidia's (NASDAQ:NVDA) Q1 2018 earnings report today at stratospheric levels, there's no room for complacency. The Street is anticipating nothing less than another blowout quarter. And there is nothing to suggest that Nvidia won’t deliver.
+The demand for the company's video gaming and data center chips—its two main markets—has been strong. Gaming revenues are likely to jump 57% to $1.61 billion from the year-ago period, according to FactSet, while data center sales may increase 60% to $656 million.
+NVDA Weekly 2015-2018
+This robust growth scenario is propelling the shares of this Santa Clara, California-based company at a time when other top technology companies are struggling to satisfy their growth-hungry investors.
+After rising 27% this year, currently trading at $255.78 per share as of yesterday's close, Nvidia has massively outperformed its peers in the industry. For perspective, NVIDIA's YTD gains are three times more than its close competitor, Advanced Micro Devices (NASDAQ:AMD).
+Ongoing Success Finding New Growth Drivers
+The main reason why investors are comfortable about betting on Nvidia’s future is the company’s success at finding new growth areas for its graphic chips. Data-center operators, for example, are increasingly using Nvidia products to perform the parallel work of artificial intelligence computing.
+The company’s gaming business, which generates almost 60% of its revenue, has been supplemented by the diversion of high-end graphics chip cards into cryptocurrency mining.
+And in the race to bring autonomous, self-driving cars to the roads, Nvidia is working closely with some of the world’s top automotive brands including Tesla (NASDAQ:TSLA), Daimler (OTC:DDAIF), Audi (OTC:VLKAY) and Hyundai (OTC:HYMLF), to design products that process camera images and recognize objects in the real world.
+Tesla plans to equip its Model S, Model X, and the upcoming Model 3 with an Nvidia-powered “supercomputer” that can provide full self-driving capability. The company is also conducting research on self-driving technology with New York University’s deep learning research team.
+Bottom Line
+After a 146% jump in its share price over the past 12 months, however, Nvidia stock is sensitive to any negative surprise. Shares fell about 8% on March 27, after the company temporarily suspended its self-driving vehicle testing, following a fatal accident involving an Uber vehicle in Tempe, Arizona.
+The other item we'll be closely monitoring in today's report, since it could easily spark volatility, is Nvidia’s cryptocurrency mining business. It's been facing declining demand on the entry of new players to the segment.
+Despite these sector-specific risks, we don't have any doubts about Nvidia’s outlook. It's much better than most of its peers and there's no threat to the company's main revenue generating units.
+Investors would be smart to stick with Nvidia. Their momentum is unlikely to fade anytime soon. 
+
+
+

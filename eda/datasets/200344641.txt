@@ -1,0 +1,23 @@
+
+After a massive plunge from its June high, which dragged its share price more than 20% lower, Intel's stock may look attractive. But is this really a buying opportunity or instead an indication of more trouble to come?
+Before discussing the company-specific issues that are pushing the share price of the world's second biggest semiconductor maker lower, it should be noted that memory chip demand is highly cyclical. The industry has gone through many boom-and-bust periods in the past.
+INTC Weekly 1-Year Chart
+The latest bull run has been fueled by new areas of the digital economy, such as the exploding use of smartphones, cloud computing, huge investment in data centers by the world’s largest tech companies and the use of chips for cryptocurrency mining. The demand for memory chips has been so strong that Intel (NASDAQ:INTC) rivals Nvidia (NASDAQ:NVDA) and Advanced Micro Devices (NASDAQ:AMD) have seen their share prices skyrocket in the past three years.
+AMD vs. Nvidia (purple) - 3-Year Chart
+Clear Signs of Weakening Demand
+But signs are emerging that the latest demand boom is aging and the supply glut may hit the chipmakers soon, as inventory builds up and prices weaken. That’s a classic indicator of a downturn in any industry.
+Nvidia said last month that sales of graphics chips to miners of cryptocurrencies such as Ethereum dried up faster than the company had expected. Nvidia, which was anticipating about $100 million in sales of chips bought by currency miners in the fiscal second quarter, said that revenue from that segment is likely to disappear entirely going forward.
+In another development, chip equipment maker KLA-Tencor (NASDAQ:KLAC) said this month that the company is facing a “drought” situation in terms of memory-chip shipments and that a recovery might not be as strong as expected. The share price of KLA-Tencor dropped about 10% the day of the announcement.
+We will get the latest update on the market fundamentals when Micron Technology (NASDAQ:MU) reports its latest quarterly earnings today, Thursday.
+Delays, Leadership Gap Could Spell Big Trouble for Intel
+Beyond weakening industry fundamentals, Intel has issues of its own. One of the biggest drags on its share price is that it’s falling behind in introducing its new chip technology, something many analysts believe should be one of its main growth drivers. The company said in late July that its new 10-nanometer chip wouldn’t be out until late next year, prompting concerns that rivals will take advantage of the delay and capture market share.
+Vivek Araya, an analyst at Merrill Lynch, downgraded Intel after the announcement saying the delays offer rivals including Taiwan Semiconductor Manufacturing (NYSE:TSM), AMD, Nvidia, and Xilinx (NASDAQ:XLNX) the possibility to “leapfrog” ahead of Intel by rolling out their own lower-cost, higher-performing chips.
+Another factor keeping investors on the sidelines is the absence of a permanent CEO following the forced departure of Brian Krzanich in June after the revelation that he had a consensual relationship with a subordinate, violating company policy. That ouster raised concerns that, in a leadership vacuum, Intel could struggle to overcome its manufacturing difficulties just as rivals are gearing up to challenge its dominance of computer chips.
+But despite these concerns, Intel continues to grow. In the latest update, the company forecast its current-quarter revenue expanding to about $18.1 billion, surpassing the average analyst estimate. For the full year, Intel is expecting to post a record $69.5 billion in sales.
+Bottom Line
+After almost a 20% slide in its share price from the peak this year, Intel shares, which closed yesterday at $46.15, look cheap. With a forward price-to-earnings multiple of around 10.8, the lowest ratio since 2015, and a dividend yield of about 2.64%, Intel looks appealing for long-term investors.
+However, the biggest risk to this attractive valuation comes from a possible demand downturn that may be just around the corner. At this stage of the cycle, when chipmakers are showing signs of peaking and red signals are flashing, we don’t see the risk-reward equation as compelling enough to make this bet.
+If you haven’t already bought Intel, it’s better to hold off and wait until the company successfully overcomes its current issues. At that point the demand-supply scenario should become more compelling. 
+
+
+

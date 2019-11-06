@@ -1,0 +1,22 @@
+
+- Reports Q4 2019 results on Thursday, Feb. 14 after the market close
+- Revenue expectation: $2.3 billion
+- EPS expectation: $0.71
+Global chipmakers have done one thing right in this cycle where demand for their products is sliding fast: they have been able to manage expectations quite well.
+When Nvidia (NASDAQ:NVDA) reports fiscal fourth-quarter 2019 earnings on Thursday, investors have already priced in the worst following the company’s advance downward revision in Q4 guidance late last month.
+Nvidia cut its outlook for Q4 revenue, citing weaker sales of "gaming and data center platforms." The industry's biggest maker of chips for computer graphics cards blamed a slowing global economy, especially in China, for its lagging growth.
+It said it expected fourth-quarter revenue of about $2.2 billion, down from a previous forecast of about $2.7 billion.
+Nvidia (NVDA) - 1-Month Chart
+Earnings per share is likely to be just more than half of what the company made in the same period a year ago, following a $120-million charge that Nvidia said it will book associated with the updated revenue guidance and current market conditions.
+But the biggest disappointment for us was the company’s revelation that demand for its data center products is also facing a slowdown. That segment of the market was expected to help large chipmakers, like Nvidia, when their sales to cryptocurrency companies were almost wiped out after the collapse of that market.
+Under Pressure Until At Least July
+This broad-based weakness suggests that it will take much longer than expected for chip producers to get back to their growth trajectory, especially when growth in China continues to slow and buyers wait for a further decline in prices for graphic cards. Nvidia generates roughly 18 percent of its revenue from China.
+These multiple challenges are likely to keep Nvidia shares under pressure, at least for the first half of this year. After losing more than half of their value since the October high, Nvidia shares have risen just 3 percent in the past month compared with gains of about 13 percent in the Philadelphia Semiconductor index.
+The downfall of this once-high-flying stock is also a reminder to investors that managing inventory in the graphics card market is one of the biggest risks to their earnings once demand dries up and customers stop purchasing.
+Nvidia needs to clear inventory from both its crypto and PC-gaming cards segments that built up in the current down cycle. The reduction in that inventory has proceeded largely in line with expectations, Nvidia said in the January update. But analysts expect the company’s videogaming segment revenues to show year-over-year declines for the next three quarters.
+At its peak in October, Nvidia was worth about $176 billion, nearly 5x its value from just two years earlier. The company is worth about $92 billion now.
+Bottom Line
+Nvidia’s heavy exposure to crypto and gaming markets will continue to have a drag on its share price and we don’t see a quick recovery to this down cycle anytime soon. With this bleak picture, investors should watch for any signs of demand recovery when Nvidia reports Q4 earnings and gives an update for 2019. 
+
+
+

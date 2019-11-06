@@ -1,0 +1,24 @@
+
+
+Reports Q4 2018 results on Thursday, January 24, after the market close
+Revenue Expectation: $19.01 billion
+EPS Expectation: $1.22
+
+Intel's (NASDAQ:INTC) Q4 earnings release, due out later today, should prove that the world's largest chipmaker is well positioned to withstand a major demand slowdown, an event that would decimate most of its competitors. The company’s diversified production lines—which churn out chips for the largest tech companies, to be used in a broad array of devices including personal computers and smartphones—could help the semiconductor giant report that 2018 was, ironically, one of its best years.
+During the past quarter, Intel has focused on higher-priced products for PCs and servers, at a time when demand from smartphone makers declined. That strategy is likely to help Intel report a 12 percent gain in revenue, to $19.01 billion, and earnings per share of $1.22, up 13 percent, for the fourth quarter, according to analysts’ average estimates.
+INTC Weekly 2016-2019
+Intel’s dominant position in the industry, which is facing a cyclical downturn, also pushed its stock to outperform competitor shares during the past six months. In fact, Intel has been one of the best performers in the sector since it reported Q3 earnings on October 25, for the quarter that ended in September. Since then, shares have gained about 13 percent.
+Still, the key question for investors and analysts going forward is, can Intel sustain this outperformance in 2019? We believe this year will be a tough one for the industry, including Intel, and investors should trim their expectations.
+Weakening Demand
+The bull run in chip stocks over the past few years was fueled by new areas of the digital economy, such as the exploding use of smartphones, cloud computing, huge investment in data centers by the world’s largest tech companies and the use of chips for cryptocurrency mining. Indeed, the demand for memory chips was so strong that Intel rivals Nvidia (NASDAQ:NVDA) and Advanced Micro Devices (NASDAQ:AMD) saw their share prices skyrocket.
+But that scenario is rapidly changing. Demand from smartphone makers reached a peak for this cycle and has begun to tail off. That slowdown has already hit many Intel competitors hard. As the environment worsens, it will be difficult for Intel to continue bucking the trend.
+As well, if the current global economic uncertainty persists and the U.S. and China fail to resolve their trade dispute, we don’t see companies such as Google (NASDAQ:GOOGL) and Amazon (NASDAQ:AMZN), some of the world's biggest technology buyers, allocating more cash this year for their data centers or cloud computing needs.
+On the PC side, the production shortage that has helped keep chip prices high in 2018 is likely to ease, in part because Intel boosted its capital spending late last year to add more capacity. Demand for PCs is also slowing. Global shipments fell 4 percent year-over-year during the fourth quarter following two quarters of growth, according to Gartner.
+Besides these cyclic factors, Intel is also facing a tough competitive environment. Chipmaking is an industry which thrives on producing the smallest, most efficient and powerful chips in the highest volumes. Intel's biggest competitive threat right now is coming from Taiwan Semiconductor Manufacturing (NYSE:TSM), which is quickly gaining market share.
+At one point during the past quarter, TSM even surpassed Intel in market cap, though that's since reversed. As well, Amazon, the biggest cloud-computing company, recently announced it will be using a chip made by Taiwan Semiconductor in its first in-house server processor.
+Bottom Line
+Given these threats, we don’t see Intel shares reaching another peak in 2019. Nevertheless the stock remains our favorite pick in the industry.
+Its wide moat and massive R&D spending continue to support the case for Intel. With its cash-cow PC business intact and a solid dividend yield of about 2.49 percent, Intel shares, priced at $47.94 as of yesterday's close, make the stock a good buy-and-hold candidate. However, we think a good entry point for long-term investors would be below $40 per share. 
+
+
+

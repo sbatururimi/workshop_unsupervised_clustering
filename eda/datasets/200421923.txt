@@ -1,0 +1,17 @@
+
+* Reports Q4 2019 results on Thursday, May 16 after the market close* Revenue expectation: $2.2 billion* EPS expectation: $0.62
+The 13% plunge in NVIDIA Corporation (NASDAQ:NVDA) shares in just the past month is flagging something worrying about the company’s first-quarter earnings report. Investors are almost certain that the much-talked about recovery in semiconductor demand isn’t in sight, and that means the maker of chips for computer graphics cards isn’t quite out of the woods yet.
+Nvidia has seen inventory levels build-up and buyers delaying their purchases since the fourth-quarter of the last-year. The industry-wide slowdown has hit the company’s revenue hard, especially that coming from the chips used in gaming and data-centers—the two largest revenue-generating units.
+Cloud-computing companies such as Amazon.com (NASDAQ:AMZN) and Alphabet (NASDAQ:GOOGL) invested heavily in their data-processing capabilities over the past five years, boosting demand for chips. But earnings reports from Nvidia’s competitors in recent weeks show that demand from some of the biggest global tech companies remains weak.
+Intel Corp (NASDAQ:INTC), the world’s second-largest semiconductor maker, said last month its data-center group will post a revenue decline in 2019, its first drop in a decade. Samsung Electronics (KS:005930), the world’s biggest maker of memory chips, cited “uncertainties in the external environment” for the slow recovery.
+A Sharp Reversal in Stock Price
+Nvidia’s data-center revenue, which comprises about 30% of Nvidia total sales, is expected to drop to $665 million in the first quarter from $701 million a year ago, according to FactSet. Overall, the profit per share is likely to plunge to $0.62 from $1.98 a year ago and sales to plummet 31% to $2.2 billion, according to analysts’ average forecast.
+Amid this pessimism, Nvidia’s shares have lost much of their steam, cutting their 40% rally this year by almost half during the past four weeks. They were trading down 1.5% at $159.58 at Wednesday's close, a sharp reversal from last October when they hit a record high of $292.76.
+Nvidia weekly chart
+Besides the cyclical slowdown, another major concern that will keep Nvidia shares under pressure is the U.S.'s deteriorating trade relations with China, which is where the chipmaker generates roughly 20% of its revenue. Both the U.S. and China have announced they will hike tariffs on each other imports after they failed to reach a widely-anticipated trade deal this month.
+Nvidia has invested heavily in China, where many of its chips are used for assembly into other products, especially in industries related to artificial intelligence. According to a recent report in the Wall Street Journal, Nvidia executives are concerned that worsening relations between the world’s two biggest economies will prompt Beijing to accelerate its efforts to reduce reliance on the U.S. chips producers by nurturing homegrown competitors, eating into Nvidia’s long-term business.
+Bottom Line
+This broad-based weakness in the semiconductor sector suggests that it will take much longer than expected for chip producers to get back to their growth trajectory, especially when expansion in China continues to slow and buyers wait for a further decline in prices for graphic cards. These multiple challenges, in our view, are likely to keep Nvidia shares under pressure, at least in 2019. Investors would be better off avoiding semiconductor stocks in this uncertain environment. 
+
+
+

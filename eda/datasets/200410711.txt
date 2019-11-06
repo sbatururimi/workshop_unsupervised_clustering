@@ -1,0 +1,18 @@
+
+* Reports Q1 2019 results on Thursday, April 25, after the market close* Revenue Expectation: $16.03 billion* EPS Expectation: $0.87
+The world’s largest chipmaker, Intel (NASDAQ:INTC), will come under sharp scrutiny today as investors seek justification in its first quarter results for the strong rally in its shares this year, which have surged on optimism that last year’s demand weakness was short-term and the company is well-positioned to do better than its peers.
+Investors didn’t get that signal in January when Intel disappointed on both Q4 earnings and its future guidance. As a result, its shares plunged the next trading day. But the recovery was rapid, and their overall performance so far in 2019 is telling a different story.
+The stock has risen almost 26% since the New Year, hitting the highest point since 2000 on investors’ expectations that demand for chips that companies use in smartphones and data centres will rebound in the second half of this year, after seeing a major slowdown in the second-half of the last year. Intel shares closed yesterday's session down 0.1% at $58.72.
+Intel weekly chart
+Investors’ optimism comes from expectations that the U.S. and China will be able to resolve their trade dispute amicably, removing one major threat for the global economy. The Chinese government’s initiatives to kick start its slowing economy offered another reason to push chip stocks higher this year.
+Semiconductor companies have a major portion of their growth tied to China, where spending on gaming and artificial intelligence has fueled demand for their products during the past decade.
+Intel’s 2 Major Challenges
+This positive scenario certainly carries some weight, but we think getting too bullish about this highly cyclical industry is not a wise move at this point. Investors should take their cue from Texas Instruments (NASDAQ:TXN), whose executives this week have cautioned that a rebound in customer demand for its chips may take time to materialize.
+After announcing earnings on April 23, the company's Chief Financial Officer Rafael Lizardi offered a more cautious outlook for the sector, saying the recent revenue decline is the result of customers cutting back on orders after a long period of stockpiling components. Typically, such a period of growth is followed by four or five quarters of declines, according to him.
+Other than dealing with the cyclical downturn, Intel has issues of its own too. The firm is facing a tough competitive environment in a industry that thrives on producing the smallest, most efficient and powerful chips in the highest volumes.
+Intel's biggest competitive threat right now is coming from Taiwan Semiconductor Manufacturing (NYSE:TSM) and NVIDIA Corporation (NASDAQ:NVDA) in the data center market and Advanced Micro Devices (NASDAQ:AMD) in the personal computing segment. Amazon (NASDAQ:AMZN), the biggest cloud-computing company, recently announced it will be using a chip made by Taiwan Semiconductor in its first in-house server processor.
+Bottom Line
+Given these threats, we don’t recommend taking a position in Intel stock at a time when it has already rallied a lot and looks vulnerable to another weak earnings performance. That being said, we prefer Intel stock over its competitors, due to its wide moat, massive R&D spending, and an attractive dividend policy. But right now isn’t the time to buy this stock, especially when the demand outlook is uncertain and its stock is already trading at an expensive level. It’s better to stay on the sidelines. 
+
+
+
